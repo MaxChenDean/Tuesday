@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
-int main (int argv, char** args){
+int main (){
 	cout<<"hello world";
 	return 0;
 }
 
-newthing
+
